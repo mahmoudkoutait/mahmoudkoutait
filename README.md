@@ -1,41 +1,41 @@
 <hr>
 <h1>Self-Study_progress</h1>
-<h4>This is a detailed report about my self learning progress.</h4>
+<h4>.</h4>
 <hr>
 
 <table>
   <thead>
     <tr>
       <th>No.</th>
-      <th>Course Name</th>
-      <th>Provider</th>
-      <th>Date of Completion</th>
-      <th>Certificate</th>
-      <th>Project</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td>Learning How To Learn</td>
-      <td>Coursera</td>
-      <td>Jun, 2024</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>2</td>
-      <td>CS50x / Introduction to Computer Science</td>
-      <td>Edx, Harvard</td>
-      <td>Jun, 2024</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>3</td>
-      <td>Git, GitHub</td>
-      <td>Learn in Depth</td>
-      <td>Jun, 2024</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
     </tr>
