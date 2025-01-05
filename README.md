@@ -1,6 +1,5 @@
 # Self Study Progress 📈
-
-### Welcome to my self-learning progress report! Here, I document the courses I have completed in my journey of self-education. This list includes courses in various fields such as data analysis, data science, machine learning, artificial intelligence and computer science generally.
+Welcome to my self-learning progress report! Here, I document the courses I have completed in my journey of self-education. This list includes courses in various fields such as data analysis, data science, machine learning, artificial intelligence and computer science generally.
 
 
 ## Course Completion Report 📝
