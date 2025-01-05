@@ -7,7 +7,7 @@ Welcome to my reading list! Here, I document books I have read and plan to read 
 | **Title** | **Author** | **Edition** | **Reading Approach** | **Key Takeaways** |
 |:-----------:|:------------:|:-------------:|:----------------------:|:-------------------:|
 | A Whirlwind Tour of Python | Jake Vanderplas | First Edition | Whole Book | Python Basics |
-| The Quick Python Book | Naomi Ceder | Third Edition | Selective Reading | Python Programming |
+| Python Crash Course | Eric Matthes | Third Edition | Selective Reading | Python Programming |
 
 ## Books To Read 📝
 
