@@ -4,10 +4,10 @@ Welcome to my reading list! Here, I document books I have read and plan to read 
 
 ## Books I Have Read 📚
 
-| **Title** | **Author** | **Edition** | **Reading Approach** | **Key Takeaways** |
-|:-----------:|:------------:|:-------------:|:----------------------:|:-------------------:|
-| A Whirlwind Tour of Python | Jake Vanderplas | First Edition | Whole Book | Python Basics |
-| Python Crash Course | Eric Matthes | Third Edition | Selective Reading | Python Programming |
+| **Title** | **Author** | **Edition** | **Reading Approach** | **Key Takeaways** | **projects** |
+|:---------:|:----------:|:-----------:|:--------------------:|:-----------------:|:------------:|
+| A Whirlwind Tour of Python | Jake Vanderplas | First Edition | Whole Book | Python Basics | -  |
+| Python Crash Course | Eric Matthes | Third Edition | Selective Reading | Python Programming | (Exercises)[https://github.com/mahmoudkoutait/python_crash_course_book.git] |
 
 ## Books To Read 📝
 
