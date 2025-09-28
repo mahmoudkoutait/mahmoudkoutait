@@ -9,6 +9,7 @@ Welcome to my reading list! Here, I document books I have read and plan to read 
 | A Whirlwind Tour of Python | Jake Vanderplas | First Edition | Whole Book | Python Basics | -  |
 | Python Crash Course | Eric Matthes | Third Edition | Whole Book | Python Programming| [Exercises](https://github.com/mahmoudkoutait/python_crash_course_book.git) |
 | Python Data Science Handbook | Jake Vanderplas | Second Edition | Whole Book | Data Science/ ML | - |
+| Mathematics for Machine Leaarning | Cambridge | First Edition | Mathematics Part | Data Science/ ML | - |
 ## Books To Read 📝
 
 | **Title** | **Author** | **Notes** |
